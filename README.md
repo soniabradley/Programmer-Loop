@@ -1,4 +1,5 @@
-# Programmer-Loop with Inquirer Npm Pacakge
+# Programmer's-Loop with Inquirer Npm Pacakge
+![NPM](npmPackage.png)
 
 A Node [Console](https://en.wikipedia.org/wiki/Console_application) application.  Creating an object using a constructor.
 
