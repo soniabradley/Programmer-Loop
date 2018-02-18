@@ -41,5 +41,5 @@ var askQuestion = function () {
         console.log("all done!");
     }
 }
-// make sure to run the function
+// Run the function
 askQuestion();
